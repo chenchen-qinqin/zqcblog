@@ -228,7 +228,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'http://s2z43ulgb.hn-bkt.clouddn.com/image/touxiang01.jpg',
+      avatar: 'https://qny.zqingchen.me/image/touxiang01.jpg',
       name: 'zqingchen',
       slogan: '爱折腾的计算机小白',
     },
