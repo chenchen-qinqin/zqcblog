@@ -144,7 +144,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '数据库',
         link: '/db/',
         items: [
-          { text: 'MySQL', link: '/pages/' }
+          { text: 'MySQL', link: '/pages/c99f3b/' }
         ],
       },
       {
