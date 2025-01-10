@@ -8,7 +8,7 @@ import dayjs from 'dayjs'
 import baiduCode from './config/baiduCode' // 百度统计hm码
 import htmlModules from './config/htmlModules' // 自定义插入的html块
 
-const DOMAIN_NAME = 'zqcblog.us.kg' // 域名 (不带https)
+const DOMAIN_NAME = 'blog.zqingchen.me' // 域名 (不带https)
 const WEB_SITE = `https://${DOMAIN_NAME}` // 网址
 
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
@@ -228,7 +228,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://qny.zqcblog.us.kg/image/touxiang01.jpg',
+      avatar: 'https://qny.zqingchen.me/image/touxiang01.jpg',
       name: 'zqingchen',
       slogan: '爱折腾的计算机小白',
     },
